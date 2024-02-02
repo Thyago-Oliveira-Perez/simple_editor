@@ -11,11 +11,11 @@ Simples .txt files editor
 - First you need to compile the code
 
 ```bash
-$ gcc ./main.c
+$  gcc -Wall src/main.c src/functions/functions.c include/functions.h -o simple_editor -lm
 ```
 
 - Then you can run it to test by using this comand
 
 ```bash
-$ .\a.exe .\test_file.txt
+$ .\simple_editor.exe .\test_file.txt
 ```
