@@ -1,6 +1,6 @@
 ## Description
 
-Simples .txt files editor
+Simple .txt files editor
 
 ## Prerequisites
 
